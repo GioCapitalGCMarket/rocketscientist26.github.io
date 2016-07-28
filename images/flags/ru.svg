@@ -9,22 +9,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="18"
+   height="18"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ru.svg">
+   sodipodi:docname="ru.svg"
+   inkscape:export-filename="F:\CURRENT\GitHub\rocketscientist26.github.io\images\flags\ru.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <title
      id="title2985">RU</title>
   <defs
      id="defs4">
     <filter
-       style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
-       id="filter3940">
+       id="filter3940"
+       color-interpolation-filters="sRGB">
       <feFlood
-         flood-opacity="0.6"
+         flood-opacity="1"
          flood-color="rgb(0,0,0)"
          result="flood"
          id="feFlood3942" />
@@ -35,8 +38,7 @@
          result="composite1"
          id="feComposite3944" />
       <feGaussianBlur
-         in="composite"
-         stdDeviation="0.3"
+         stdDeviation="0.59999999999999998"
          result="blur"
          id="feGaussianBlur3946" />
       <feOffset
@@ -60,7 +62,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="2.9663527"
+     inkscape:cx="17.407464"
      inkscape:cy="1.9442415"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -102,17 +104,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
+     transform="translate(0,-1034.3622)">
     <rect
        style="fill:#ffffff;stroke:none;filter:url(#filter3940)"
        id="rect3770"
        width="14"
        height="14"
-       x="1"
-       y="1037.3623" />
+       x="2"
+       y="1036.3622" />
     <g
        id="g3761"
-       transform="matrix(0.875,0,0,0.875,1,130.54539)">
+       transform="matrix(0.875,0,0,0.875,2,129.54529)">
       <rect
          y="1047.3622"
          x="0"
